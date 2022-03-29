@@ -1,2 +1,2 @@
-dlanguage = "java17"
-run = "javac *.java; java ArrayAssignment"
+language = "java17"
+run = "javac *.java && java ArrayAssignment"
